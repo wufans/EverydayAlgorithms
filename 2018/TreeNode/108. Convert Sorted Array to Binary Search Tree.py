@@ -51,3 +51,26 @@ class TreeNode:
         self.val = x
         self.left = None
         self.right = None
+        
+# =============================================================================
+#         fastest solution
+#     def sortedArrayToBST(self, nums):
+#         """
+#         :type nums: List[int]
+#         :rtype: TreeNode
+#         """        
+#         ret_list = []
+#         self.gen_indices(ret_list, nums, 0, len(nums), 0)
+#         return ret_list
+#     
+#     def gen_indices(self, ret_list, nums, lo, hi, cur_index):
+#         if lo >= hi:
+#             return
+#         while cur_index > len(ret_list)-1:
+#             ret_list.append(None)
+#         mid = (hi + lo)//2
+#         ret_list[cur_index] = nums[mid]
+#         
+#         self.gen_indices(ret_list, nums, lo, mid, 2*cur_index+1)
+#         self.gen_indices(ret_list, nums, mid + 1, hi, 2*cur_index+2)
+# =============================================================================
