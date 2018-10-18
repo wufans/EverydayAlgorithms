@@ -36,7 +36,7 @@ Created on Wed Oct 10 16:30:52 2018
 #         self.val = x
 #         self.left = None
 #         self.right = None
-
+# 注意条件，主要节点的值位于两者之间，那就是LCA
 class Solution(object):
     def lowestCommonAncestor(self, root, p, q):
         """
