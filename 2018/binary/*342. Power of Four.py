@@ -58,3 +58,8 @@ return num != 0 and num &(num-1) == 0 and num & 1431655765== num
         #这里需要判断a是否是整数，方法一：采用int强转，方法2，采用取整的方法
         # return True if int(a) == a else False
         # return True if math.floor(math.log(num,4)) == math.log(num,4) else False
+## python int() round() floor()
+
+# int（）函数直接截去小数部分
+# floor（） 得到最接近原数但是小于原数的部分
+# round() 得到最接近原数的整数（返回为浮点类型）
