@@ -55,6 +55,6 @@ return num != 0 and num &(num-1) == 0 and num & 1431655765== num
         # if (num <= 0):
         #     return False
         # a = math.log(num, 4)
-        #这里需要判断a是否是
+        #这里需要判断a是否是整数，方法一：采用int强转，方法2，采用取整的方法
         # return True if int(a) == a else False
         # return True if math.floor(math.log(num,4)) == math.log(num,4) else False
