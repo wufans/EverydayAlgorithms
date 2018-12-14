@@ -12,6 +12,7 @@ sumRange(0, 5) -> -3
 Note:
 You may assume that the array does not change.
 There are many calls to sumRange function.
+Interesting
 """
 
 
