@@ -17,6 +17,8 @@ A solution set is:
   [-2, -1, 1, 2],
   [-2,  0, 0, 2]
 ]
+
+分析：问题的关键，就是解决元素两两之和的问题和重复的问题~
 """
 
 
@@ -28,7 +30,7 @@ class Solution:
         :rtype: List[List[int]]
         """
 
-#time exceed
+#time exceed 暴力搜索肯定会超时
         # nums.sort()
         # res = []
         # for i in range(len(nums)-3):
