@@ -41,7 +41,7 @@ class Solution:
         # return res
 
 
-#70%
+#70%思想：利用dict的key存储两两元素之和，最后配对找到target
         # numLen, res, dict = len(num), set(), {}
         # if numLen < 4: return []
         # num.sort()
