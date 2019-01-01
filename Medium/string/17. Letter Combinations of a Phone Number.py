@@ -35,8 +35,8 @@ class Solution:
         #     result = res_tmp
         # return result
         #
-        # if not digits:
-        #     return []
+        if not digits:
+            return []
 
         dic = {}
         dic[2] = ['a', 'b', 'c']
