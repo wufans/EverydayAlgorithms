@@ -22,3 +22,12 @@ Consider the following matrix:
 
 Given target = 5, return true.
 Given target = 20, return false.
+
+## solution5. 替换空格
+将一个字符串中的空格替换成 "%20"。
+
+Input:
+"We Are Happy"
+
+Output:
+"We%20Are%20Happy"
