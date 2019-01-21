@@ -15,11 +15,11 @@
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |           Easy            |
 | 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |           Hard            |
 | 0011 | [Container With Most Water](https://leetcode.com/problems/queue-reconstruction-by-height/) |          Medium           |
-| 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) |         [Medium](./Java/leetcode/Solution12)           |
+| 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) |         [Medium](./Java/leetcode/Solution12.java)           |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) |           Easy            |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |           Easy            |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum/) |          Medium           |
-| 0016 | [3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) |          [Medium](./Java/leetcode/Solution22)           |
+| 0016 | [3Sum Closest](https://leetcode.com/problems/3Sum-Closest/) |          [Medium](./Java/leetcode/Solution22.java)           |
 | 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |          Medium           |
 | 0018 | [4Sum](https://leetcode.com/problems/4sum/) |          Medium           |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |          Medium           |
@@ -27,21 +27,21 @@
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |           Easy            |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |          Medium           |
 | 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |           Hard            |
-| 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |          [Medium](./Java/leetcode/Solution24)           |
+| 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |          [Medium](./Java/leetcode/Solution24.java)           |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |           Easy            |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) |           Easy            |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) |           Easy            |
-| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) |          [Medium](./Java/leetcode/Solution29)           |
+| 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) |          [Medium](./Java/leetcode/Solution29.java)           |
 | 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |           Hard            |
-| 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) |          [Medium](./Java/leetcode/Solution31)           |
+| 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) |          [Medium](./Java/leetcode/Solution31.java)           |
 | 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) |           Hard            |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |          [Medium](./Java/leetcode/Solution33)           |
-| 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |          [Medium](./Java/leetcode/Solution34)           |
+| 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |          [Medium](./Java/leetcode/Solution34.java)           |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |           Easy            |
-| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |          [Medium](./Java/leetcode/Solution36)           |
+| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |          [Medium](./Java/leetcode/Solution36.java)           |
 | 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) |           Hard            |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) |           Easy            |
-| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) |          [Medium](./Java/leetcode/Solution39)           |
+| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) |          [Medium](./Java/leetcode/Solution39.java)           |
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) |          Medium           |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) |           Hard            |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |           Hard            |
