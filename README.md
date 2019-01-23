@@ -42,7 +42,7 @@
 | 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) |           Hard            |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) |           Easy            |
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum/) |          [Medium](./Java/leetcode/Solution39.java)           |
-| 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) |          Medium           |
+| 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) |          [Medium](./Java/leetcode/Solution40.java)           |
 | 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) |           Hard            |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |           Hard            |
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |          Medium           |
