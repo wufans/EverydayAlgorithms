@@ -248,6 +248,7 @@
 | 0525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) |          Medium           |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |          Medium           |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) |           [Easy](./Java/leetcode/Solution704.java)            |
+| 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) |           [Easy](./Java/leetcode/Solution705.java)            |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |          Medium           |
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |           Easy            |
 | 0901 | [Online-Stock-Span](https://leetcode.com/problems/online-stock-span/) |          Medium           |
