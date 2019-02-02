@@ -48,7 +48,7 @@
 | 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |          [Medium](./Java/leetcode/Solution43.java)           |
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) |           Hard            |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) |           Hard            |
-| 0046 | [Permutations](https://leetcode.com/problems/permutations/) |          Medium           |
+| 0046 | [Permutations](https://leetcode.com/problems/permutations/) |          [Medium](./Java/leetcode/Solution46.java)           |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) |          Medium           |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) |          Medium           |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |          Medium           |
@@ -247,6 +247,7 @@
 | 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-i/) |          Medium           |
 | 0525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) |          Medium           |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |          Medium           |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) |           [Easy](./Java/leetcode/Solution704.java)            |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |          Medium           |
 | 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |           Easy            |
 | 0901 | [Online-Stock-Span](https://leetcode.com/problems/online-stock-span/) |          Medium           |
