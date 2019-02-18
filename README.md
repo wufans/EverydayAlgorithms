@@ -49,7 +49,7 @@
 | 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) |           Hard            |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) |           Hard            |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations/) |          [Medium](./Java/leetcode/Solution46.java)           |
-| 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) |          Medium           |
+| 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii/) |          [Medium](./Java/leetcode/Solution47.java)           |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image/) |          Medium           |
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |          Medium           |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) |          Medium           |
