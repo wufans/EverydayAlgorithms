@@ -11,6 +11,8 @@ import java.util.List;
  * @Version 1.0
  */
 /*
+
+//参考https://www.cnblogs.com/grandyang/p/4359825.html  非常详细的解法！
 * Given a collection of numbers that might contain duplicates, return all possible unique permutations.
 
 Example:
