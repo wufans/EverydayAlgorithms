@@ -4,6 +4,7 @@
 
 ## [Leetcode](https://leetcode.com/)
 (暂没更新链接，部分题目在python文件夹中)
+
 |  #   |                  Title                   |        Difficulty         |
 | :--: | :--------------------------------------: | :-----------------------: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Easy](./2018/1twosum.py) |
