@@ -3,7 +3,7 @@
 ## [剑指Offer总结](https://github.com/wufans/EverydayAlgorithms/tree/master/Java/Offer)
 
 ## [Leetcode](https://leetcode.com/)
-(暂没更新链接，部分题目在python文件夹中)
+(暂没更新链接，部分题目在"./2018"文件夹中)
 
 |  #   |                  Title                   |        Difficulty         |
 | :--: | :--------------------------------------: | :-----------------------: |
