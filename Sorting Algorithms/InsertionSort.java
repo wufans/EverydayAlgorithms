@@ -19,17 +19,22 @@ public class InsertionSort {
         }
         for (int i = 1; i < list.length ; i++) {
             int temp = list[i];
-            for (int j = i-1; j >= 0; j--) {
-                if(list[j]>temp){
-                    list[j+1] = list[j];
-                    if(j == 0)
-                        list[0] = temp;
-                }else{
-                    list[j+1] = temp;
-                    break;
-                }
-
+//            for (int j = i-1; j >= 0; j--) {
+//                if(list[j]>temp){
+//                    list[j+1] = list[j];
+//                    if(j == 0)
+//                        list[0] = temp;
+//                }else{
+//                    list[j+1] = temp;
+//                    break;
+//                }
+//            }
+            int index = i-1;
+            while(index>=0 && list[index]>temp){
+                list[index+1] = list[index];
+                index --;
             }
+            list[index+1] = temp;
         }
         return list;
     }
