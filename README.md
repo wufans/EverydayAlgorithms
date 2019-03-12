@@ -1,8 +1,10 @@
 # EverydayAlgorithms
 
-## [剑指Offer总结](https://github.com/wufans/EverydayAlgorithms/tree/master/Java/Offer)
+## :book:[剑指Offer题解（Java,持续更新中...）](https://github.com/wufans/EverydayAlgorithms/tree/master/Java/Offer)
 
-## [Leetcode](https://leetcode.com/)
+## :flashlight: [经典排序算法题解](https://github.com/wufans/EverydayAlgorithms/tree/master/Sorting%20Algorithms)
+
+## :name_badge: [Leetcode](https://leetcode.com/)
 (暂没更新链接，部分题目在"./2018"文件夹中)
 
 |  #   |                  Title                   |        Difficulty         |
