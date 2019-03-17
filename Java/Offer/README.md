@@ -63,7 +63,7 @@
 | 53 | **数字在排序数组中出现的次数** | [二分查找](./Solution53.java)|
 | 54 | <font color="red">**二叉查找树的第 K 个结点**<font> | [二叉树，中序遍历](./Solution54.java)|
 | 55.1 | 二叉树的深度 | [回溯](./Solution55_1.java)|
-
+| 55.2 | 平衡二叉树 | [回溯](./Solution55_2.java)|
 
 ## solution3. 数组中重复的数字
 题目描述
