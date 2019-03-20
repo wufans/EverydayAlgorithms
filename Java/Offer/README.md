@@ -76,4 +76,4 @@
 
 ### 参考
 1. 何海涛. 剑指 Offer[M]. 电子工业出版社, 2012.
-2. [CS-Notes-剑指offer题解](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
+2. 题目顺序参考：[CS-Notes-剑指offer题解](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/%E5%89%91%E6%8C%87%20Offer%20%E9%A2%98%E8%A7%A3%20-%20%E7%9B%AE%E5%BD%95.md)
