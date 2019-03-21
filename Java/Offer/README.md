@@ -74,10 +74,10 @@
 | 61 | 扑克牌顺子 | [数组](./Solution61.java)|
 | 62 | <font color="red">**圆圈中最后剩下的数**<font> | [约瑟夫环](./Solution54.java)|
 | 63 | 股票的最大利润 | [数组](./Solution63.java)|
-| 64 | 求 1+2+3+...+n | [递归，&&](./Solution64.java)|
+| 64 | 求 1+2+3+...+n | [递归，&&短路](./Solution64.java)|
 | 65 | **不用加减乘除做加法** | [位运算，BigInteger](./Solution65.java)|
-
-
+| 66 | 构建乘积数组 | [逻辑](./Solution66.java)|
+| 67 | 把字符串转换成整数 | [字符串](./Solution67.java)|
 
 
 ### 参考
