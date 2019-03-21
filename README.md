@@ -1,6 +1,6 @@
 # EverydayAlgorithms
 
-## :book:[剑指Offer题解（Java,持续更新中...）](https://github.com/wufans/EverydayAlgorithms/tree/master/Java/Offer)
+## :book:[剑指Offer题解（Java,已完成）](https://github.com/wufans/EverydayAlgorithms/tree/master/Java/Offer)
 
 ## :flashlight: [经典排序算法题解](https://github.com/wufans/EverydayAlgorithms/tree/master/Sorting%20Algorithms)
 
