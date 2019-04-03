@@ -202,7 +202,7 @@
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |          Medium           |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |          Medium           |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |           Easy            |
-| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |          Medium           |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |          [Medium](./Java/leetcode/Solution236.java)           |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) |           Easy            |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |          Medium           |
 | 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |          Medium           |
