@@ -61,8 +61,8 @@
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens/) |           Hard            |
 | 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) |           Hard            |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |           Easy            |
-| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |          Medium           |
-| 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) |          Medium           |
+| 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |          [Medium](./Java/leetcode/Solution54.java)           |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) |          [Medium](./Java/leetcode/Solution55.java)           |
 | 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |          Medium           |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) |           Hard            |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |           Easy            |
