@@ -63,11 +63,11 @@
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |           Easy            |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |          [Medium](./Java/leetcode/Solution54.java)           |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game/) |          [Medium](./Java/leetcode/Solution55.java)           |
-| 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |          Medium           |
+| 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) |          [Medium](./Java/leetcode/Solution56.java)           |
 | 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) |           Hard            |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |           Easy            |
-| 0059 | [Spiral Matrix II](https://leetcode.com/problem/spiral-matrix-ii/) |           Hard            |
-| 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) |          Medium           |
+| 0059 | [Spiral Matrix II](https://leetcode.com/problem/spiral-matrix-ii/) |           [Medium](./Java/leetcode/Solution59.java)            |
+| 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) |          [Medium](./Java/leetcode/Solution60.java)           |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) |          Medium           |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) |          Medium           |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |          Medium           |
