@@ -68,8 +68,8 @@
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |           Easy            |
 | 0059 | [Spiral Matrix II](https://leetcode.com/problem/spiral-matrix-ii/) |           [Medium](./Java/leetcode/Solution59.java)            |
 | 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) |          [Medium](./Java/leetcode/Solution60.java)           |
-| 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) |          Medium           |
-| 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) |          Medium           |
+| 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) |          [Medium](./Java/leetcode/Solution61.java)           |
+| 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) |          [Medium](./Java/leetcode/Solution62.java)           |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |          Medium           |
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) |          Medium           |
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number/) |           Hard            |
