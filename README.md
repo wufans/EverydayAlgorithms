@@ -70,14 +70,14 @@
 | 0060 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) |          [Medium](./Java/leetcode/Solution60.java)           |
 | 0061 | [Rotate List](https://leetcode.com/problems/rotate-list/) |          [Medium](./Java/leetcode/Solution61.java)           |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) |          [Medium](./Java/leetcode/Solution62.java)           |
-| 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |          Medium           |
-| 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) |          Medium           |
+| 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |          [Medium](./Java/leetcode/Solution63.java)           |
+| 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) |          [Medium](./Java/leetcode/Solution64.java)           |
 | 0065 | [Valid Number](https://leetcode.com/problems/valid-number/) |           Hard            |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) |           Easy            |
 | 0068 | [Text Justification](https://leetcode.com/problems/text-justification/) |           Hard            |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |           Easy            |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |           Easy            |
-| 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) |          Medium           |
+| 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) |          [Medium](./Java/leetcode/Solution71.java)           |
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) |           Hard            |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |          Medium           |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |          Medium           |
