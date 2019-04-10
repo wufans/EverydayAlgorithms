@@ -79,9 +79,9 @@
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |           Easy            |
 | 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path/) |          [Medium](./Java/leetcode/Solution71.java)           |
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) |           Hard            |
-| 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |          Medium           |
-| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |          Medium           |
-| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) |          Medium           |
+| 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |          [Medium](./Java/leetcode/Solution73.java)           |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |          [Medium](./Java/leetcode/Solution74.java)           |
+| 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) |          [Medium](./Java/leetcode/Solution75.java)           |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |           Easy            |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations/) |          Medium           |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets/) |          Medium           |
