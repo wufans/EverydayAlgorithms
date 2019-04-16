@@ -31,7 +31,7 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |           Easy            |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |           Easy            |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) |          Medium           |
-| 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |           Hard            |
+| 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |          [Hard](./Java/leetcode/Solution23.java)            |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |          [Medium](./Java/leetcode/Solution24.java)           |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |           Easy            |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) |           Easy            |
@@ -83,8 +83,8 @@
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |          [Medium](./Java/leetcode/Solution74.java)           |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors/) |          [Medium](./Java/leetcode/Solution75.java)           |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |           Easy            |
-| 0077 | [Combinations](https://leetcode.com/problems/combinations/) |          Medium           |
-| 0078 | [Subsets](https://leetcode.com/problems/subsets/) |          Medium           |
+| 0077 | [Combinations](https://leetcode.com/problems/combinations/) |          [Medium](./Java/leetcode/Solution77.java)           |
+| 0078 | [Subsets](https://leetcode.com/problems/subsets/) |          [Medium](./Java/leetcode/Solution78.java)           |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/) |          Medium           |
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |          Medium           |
 | 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |          Medium           |
