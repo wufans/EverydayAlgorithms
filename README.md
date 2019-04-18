@@ -186,7 +186,7 @@
 | 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |           Easy            |
 | 0204 | [Count Primes](https://leetcode.com/problems/remove-linked-list-elements/) |           Easy            |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |           Easy            |
-| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |           Easy            |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |           [Easy](./Java/leetcode/Solution206.java)            |
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) |           Easy            |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |          Medium           |
 | 0211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) |          Medium           |
