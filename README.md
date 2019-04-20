@@ -39,7 +39,7 @@
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) |          [Medium](./Java/leetcode/Solution29.java)           |
 | 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |           Hard            |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation/) |          [Medium](./Java/leetcode/Solution31.java)           |
-| 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) |           Hard            |
+| 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) |           [Hard](./Java/leetcode/Solution32.java)            |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |          [Medium](./Java/leetcode/Solution33)           |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |          [Medium](./Java/leetcode/Solution34.java)           |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |           Easy            |
