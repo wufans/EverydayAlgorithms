@@ -86,8 +86,8 @@
 | 0077 | [Combinations](https://leetcode.com/problems/combinations/) |          [Medium](./Java/leetcode/Solution77.java)           |
 | 0078 | [Subsets](https://leetcode.com/problems/subsets/) |          [Medium](./Java/leetcode/Solution78.java)           |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/) |          Medium           |
-| 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |          Medium           |
-| 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |          Medium           |
+| 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |          [Medium](./Java/leetcode/Solution80.java)           |
+| 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |          [Medium](./Java/leetcode/Solution81.java)           |
 | 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |          Medium           |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |           Easy            |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |           Hard            |
