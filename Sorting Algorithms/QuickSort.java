@@ -15,24 +15,56 @@ import java.util.Arrays;
 public class QuickSort {
     public static void main(String[] args) {
         int[] testList = new int[]{-6,-3,-2,7,-15,1,2,2};
-        int[] testList2 = new int[]{};
-        System.out.println(Arrays.toString(quickSort2(testList,0,testList.length-1)));
+        int[] testList2 = new int[]{-3,-2};
+//        System.out.println(Arrays.toString(quickSort(testList,0,testList.length-1)));
+        quickSort3(testList,0,testList.length-1);
+        System.out.println(Arrays.toString(testList2));
     }
-    //A
+    //面试的快速写法
+    private static void quickSort3(int[] testlist, int start, int end){
+        if(start<end){
+            int temp = partition(testlist,start,end);
+            quickSort3(testlist,start,temp-1);
+            quickSort3(testlist,temp+1,end);
+        }
+    }
+    private static int partition3(int[] testlist, int start, int end){
+        int temp = testlist[start];
+        int temp_index = start;
+        while(start<end){
+            while(start<end && testlist[end]>=temp)
+                end--;
+            while(start<end && testlist[start]<= temp)
+                start++;
+            if(start<end)
+                swap(testlist,start,end);
+        }
+        if(start!= temp_index)
+            swap(testlist,temp_index,start);
+        return start;
+    }
+
+
+    //分治
     private static int[] quickSort(int[] testList, int start, int end) {
         if (testList == null || start >= end)
             return testList;
         int i = start, j = end;
         int pivotKey = testList[start];
+        System.out.println(Arrays.toString(testList));
         while (i < j) {
             while (i < j && testList[j] >= pivotKey)
                 j--;
-            if (i < j)
+            if (i < j){
                 testList[i++] = testList[j];
+                System.out.println("i++"+Arrays.toString(testList));
+            }
             while (i < j && testList[i] <= pivotKey)
                 i++;
-            if (i < j)
+            if (i < j){
                 testList[j--] = testList[i];
+                System.out.println("j--"+Arrays.toString(testList));}
+
         }
         testList[i] = pivotKey;
         quickSort(testList, start, i - 1);
@@ -41,7 +73,7 @@ public class QuickSort {
     }
 
     //--------------------------------------------------------------------------------------------------
-    //B
+    //经典解法
     public static int[] quickSort2(int[] testList, int start, int end) {
         if (testList == null || start < 0 || end > testList.length - 1) {
             throw new IllegalArgumentException("Invalid Parameters");
