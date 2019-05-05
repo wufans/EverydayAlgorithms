@@ -88,14 +88,14 @@
 | 0079 | [Word Search](https://leetcode.com/problems/word-search/) |          Medium           |
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |          [Medium](./Java/leetcode/Solution80.java)           |
 | 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |          [Medium](./Java/leetcode/Solution81.java)           |
-| 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |          Medium           |
+| 0082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |          [Medium](./Java/leetcode/Solution82.java)           |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |           Easy            |
 | 0084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |           Hard            |
 | 0085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) |           Hard            |
 | 0086 | [Partition List](https://leetcode.com/problems/partition-list/) |          Medium           |
 | 0087 | [Scramble String](https://leetcode.com/problems/scramble-string/) |           Hard            |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |           Easy            |
-| 0089 | [Gray Code](https://leetcode.com/problems/gray-code/) |          Medium           |
+| 0089 | [Gray Code](https://leetcode.com/problems/gray-code/) |          [Medium](./Java/leetcode/Solution89.java)           |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) |          Medium           |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |          Medium           |
 | 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) |          Medium           |
