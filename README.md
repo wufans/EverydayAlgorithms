@@ -96,9 +96,9 @@
 | 0087 | [Scramble String](https://leetcode.com/problems/scramble-string/) |           Hard            |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |           Easy            |
 | 0089 | [Gray Code](https://leetcode.com/problems/gray-code/) |          [Medium](./Java/leetcode/Solution89.java)           |
-| 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) |          Medium           |
+| 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) |          [Medium](./Java/leetcode/Solution90.java)           |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |          Medium           |
-| 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) |          Medium           |
+| 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) |          [Medium](./Java/leetcode/Solution92.java)           |
 | 0093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) |          Medium           |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |          Medium           |
 | 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |          Medium           |
