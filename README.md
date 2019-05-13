@@ -99,8 +99,8 @@
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii/) |          [Medium](./Java/leetcode/Solution90.java)           |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |          Medium           |
 | 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) |          [Medium](./Java/leetcode/Solution92.java)           |
-| 0093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) |          Medium           |
-| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |          Medium           |
+| 0093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) |          [Medium](./Java/leetcode/Solution93.java)           |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |          [Medium](./Java/leetcode/Solution94.java)           |
 | 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |          Medium           |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) |          Medium           |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) |          Medium           |
