@@ -102,7 +102,7 @@
 | 0093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) |          [Medium](./Java/leetcode/Solution93.java)           |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |          [Medium](./Java/leetcode/Solution94.java)           |
 | 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |          [Medium](./Java/leetcode/Solution95.java)           |
-| 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) |          Medium           |
+| 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) |          [Medium](./Java/leetcode/Solution96.java)            |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) |          Medium           |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |          Medium           |
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) |           Hard            |
