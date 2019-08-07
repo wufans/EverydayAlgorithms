@@ -104,7 +104,7 @@
 | 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |          [Medium](./Java/leetcode/Solution95.java)           |
 | 0096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) |          [Medium](./Java/leetcode/Solution96.java)            |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) |          Medium           |
-| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |          Medium           |
+| 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |          [Medium](./Java/leetcode/Solution98.java)            |
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) |           Hard            |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree/) |           Easy            |
 | 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |           Easy            |
